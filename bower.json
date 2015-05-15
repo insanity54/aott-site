@@ -1,0 +1,23 @@
+{
+  "name": "aott-site",
+  "version": "0.0.0",
+  "homepage": "https://github.com/insanity54/aott-site",
+  "authors": [
+    "Chris Grimmett <chris@grimtech.net>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/files/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4",
+    "ionicons": "~2.0.1"
+  }
+}
