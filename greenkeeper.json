@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "lib/vendor/bootstrap/package.json"
+      ]
+    }
+  }
+}
